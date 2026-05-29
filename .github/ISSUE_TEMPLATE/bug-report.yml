@@ -1,7 +1,7 @@
 description: Create a report to help us improve
 name: Bug report
 title: "bug: "
-type: bug
+type: Bug
 body:
   - type: markdown
     attributes:
