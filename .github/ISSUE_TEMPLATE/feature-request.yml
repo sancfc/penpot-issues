@@ -2,6 +2,7 @@ description: Suggest an idea for this project.
 labels: ["needs triage", "enhancement"]
 name: "Feature request"
 title: "feature: "
+type: feature
 body:
   - type: markdown
     attributes:
